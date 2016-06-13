@@ -11,8 +11,8 @@ title                    : "Brian Bahmanyar"
 title_separator          : "-"
 name                     : "Brian Bahmanyar"
 description              : "A blog about data, and the science of extracting insight from it using machine learning and statistical methods."
-url                      : "http://brianbahman.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+url                      : #"http://brianbahman.github.io"
+baseurl                  : #"/blog" 
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
